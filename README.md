@@ -1,7 +1,5 @@
 [![News @ Northeastern Logo](https://cloud.githubusercontent.com/assets/8379295/22751435/5d58d334-ee02-11e6-871a-ffdc1c046d05.png)](https://news.northeastern.edu/)
 
-# News @ Northeastern
-
 ## Development Environment Install Guide
 
 Follow these instructions to set up your computer for News @ Northeastern's tech environment.
