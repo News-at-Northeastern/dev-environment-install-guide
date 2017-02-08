@@ -362,6 +362,40 @@ After installing `hub`, add the following line to your `~/.bashrc`.
 ```bash
 eval "$(hub alias -s)"
 ```
+## Composer
+
+In order to use the News@ theme, we need to install Composer
+
+Setup the homebrew/dupes tap which has dependencies we need:
+
+```bash
+brew tap homebrew/dupes
+```
+
+Setup the homebrew/versions tap which has dependencies we need:
+
+```bash
+brew tap homebrew/versions
+```
+
+Then, run the following in your command-line:
+
+```bash
+brew tap homebrew/homebrew-php
+```
+
+Once the tap is installed, you can install php53, php54, php55, php56, php70,
+php71, or any formulae you might need. In our case, we'll install php70:
+
+```bash
+brew install php70
+```
+
+Lastly, install Composer
+
+```bash
+brew install composer
+```
 
 ## Other Goodies
 
